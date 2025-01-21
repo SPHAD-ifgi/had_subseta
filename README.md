@@ -10,3 +10,5 @@ can take 10 or 20 minutes
 `cat had.csv | ./subset.py -bbox 7.3023870 51.4155255 7.6381570 51.6000415 > HAD_dortmund.csv`
 `cat had.csv | ./subset.py -bbox 6.4779483 51.2857809 6.7062122 51.4054910 > HAD_krefeld.csv`
 `cat had.csv | ./subset.py -bbox 11.8552541 51.4021008 12.0892171 51.5435116 > HAD_halle.csv`
+`cat had.csv | ./subset.py -bbox 13.5793237 50.9749370 13.9660626 51.1777202 > HAD_dresden`
+`cat had.csv | ./subset.py -bbox 6.6256311 51.3333827 6.8302507 51.5600691 > HAD_duisburg`
